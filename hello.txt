@@ -1,8 +1,1 @@
-Hello, world!
-Hello, Git!!
-Это новое изменение
-Git! i heave new knowless!
-total restart!!!
-
-
-
+Новая строка1
