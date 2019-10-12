@@ -3,3 +3,4 @@ qНовая строка1
 
 Hello, world! I'ts me.
 Hello, GIT
+Hello, GIT Rebase!
