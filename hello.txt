@@ -2,3 +2,4 @@ qНовая строка1
 Новая строка21
 
 Hello, world! I'ts me.
+Hello, GIT
