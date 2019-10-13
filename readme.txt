@@ -3,3 +3,4 @@ Hello, GIT
 New str
 Hello, Git cherry-pick
 Hello, squash!
+Hello, Sergey!! 
