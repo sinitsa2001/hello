@@ -4,3 +4,4 @@ qНовая строка1
 Hello, world! I'ts me.
 Hello, GIT
 Hello, GIT Rebase!
+Вторая попытка урок 10. ветка мастер.
